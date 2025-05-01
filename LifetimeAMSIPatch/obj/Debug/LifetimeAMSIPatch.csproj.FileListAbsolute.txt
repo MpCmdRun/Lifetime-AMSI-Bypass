@@ -1,0 +1,7 @@
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\bin\Debug\LifetimeAMSIPatch.exe.config
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\bin\Debug\LifetimeAMSIPatch.exe
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\bin\Debug\LifetimeAMSIPatch.pdb
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\obj\Debug\LifetimeAMSIPatch.csproj.AssemblyReference.cache
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\obj\Debug\LifetimeAMSIPatch.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\obj\Debug\LifetimeAMSIPatch.exe
+C:\Users\miles\source\repos\LifetimeAMSIPatch\LifetimeAMSIPatch\obj\Debug\LifetimeAMSIPatch.pdb
